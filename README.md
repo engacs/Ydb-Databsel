@@ -1,2 +1,2 @@
-# Ydb_databsel
+# Ydb Databsel
 DataTables Server-Side Processing with CodeIgniter
